@@ -9,10 +9,12 @@ In this project, I
 <br>4) configured a Virtual Machine Setup according to given specifications and 
 <br>5) edited several Local Group Policies and Rules.
 <br>
+<br>
 6) The VM was configured to interact with my Host Laptop, 
 <br>with Protocols like Inbound rules, 
 <br>Enabling/Disabled Firewall Restrictions and 
 <br>File Transfer Protocol with IIS.
+<br>
 <br>
 7) Lastly, I ran CIS Benchmark test to discover previously unbeknownst vulnerabilities and patched 
 <br>them accordingly. Once policies were changed, a final test is run, and that concludes the end of 
