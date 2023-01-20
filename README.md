@@ -20,4 +20,5 @@ In this project, I
 <br>them accordingly. Once policies were changed, a final test is run, and that concludes the end of 
 <br>this assignment.
 
-## Linux Case Study: Convince that Linux is a more preferable Operation System for devices of a Company.
+# Linux Case Study: 
+Convince that Linux is a more preferable Operation System for devices of a Company.
